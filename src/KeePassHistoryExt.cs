@@ -1,17 +1,7 @@
 using System;
 using System.Collections.Generic;
-using System.Diagnostics;
-using System.Text;
-using System.Windows.Forms;
 
-using KeePass.Forms;
 using KeePass.Plugins;
-using KeePass.Resources;
-using KeePass.UI;
-
-using KeePassLib;
-using KeePassLib.Security;
-using KeePassLib.Utility;
 
 namespace KeePassHistory
 {
